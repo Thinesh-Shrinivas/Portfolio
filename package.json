@@ -1,0 +1,27 @@
+{
+  "name": "creating-porfolio",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thinesh-Shrinivas/Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thinesh-Shrinivas/Portfolio/issues"
+  },
+  "homepage": "https://github.com/Thinesh-Shrinivas/Portfolio#readme",
+  "devDependencies": {
+    "@parcel/transformer-less": "^2.0.1",
+    "@parcel/transformer-sass": "^2.0.1",
+    "@segment/analytics.js-core": "^4.1.11",
+    "@segment/analytics.js-integration-segmentio": "^4.4.7",
+    "parcel": "^2.0.1"
+  }
+}
